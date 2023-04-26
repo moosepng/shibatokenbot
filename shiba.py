@@ -5,7 +5,7 @@ import asyncio
 from decimal import Decimal
 
 bot = discord.Client(intents=discord.Intents.default())
-bot_token = '###'
+bot_token = '###' #token is not here for privacy reasons
 
 
 class Values():
